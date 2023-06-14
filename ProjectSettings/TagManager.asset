@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - centerobject
+  - bulletElbow
+  - bulletHand
+  - elbow
+  - hand
+  - reffTronco
+  - reffHandLeft
+  - reffHandRight
+  - reffElbowLeft
+  - reffElbowRight
+  - tronco
+  - pointHLeft
+  - pointHRight
+  - bullet
+  - gunManager
+  - dataConfig
+  - DragParent
+  - gun1
+  - gun2
+  - pointHLeftResult
+  - pointHRightResult
+  - bullet_L
+  - bullet_R
+  - gameManager
+  - pointTouch
+  - diana
+  - Hand
+  - respCartas
+  - rCorrecta
+  - rIncorrecta
+  - preg1
+  - cartas
+  - hLeft
+  - hRight
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - bloque
+  - Water
+  - UI
+  - noLook
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
